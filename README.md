@@ -7,8 +7,8 @@ This code and analysis answers the question: "What is the weather like as we app
 An analysis was done using regression lines and scatter plots to determine the relationship between distance from the equator and specific weather conditions, such as temperature, wind speed, cloudiness, and humidity. 
 
 Hotels were limited to locations with the following parameters: 
-   -Max Temperature less than 29.5 degrees Celcius
-   -Humidity less than 75%
-   -Cloudiness less than 50%
-   -Wind Speed less than 5 m/s
+-Max Temperature less than 29.5 degrees Celcius
+-Humidity less than 75%
+-Cloudiness less than 50%
+-Wind Speed less than 5 m/s
 
