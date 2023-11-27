@@ -12,3 +12,4 @@ Hotels were limited to locations with the following parameters:
 * Cloudiness less than 50%
 * Wind Speed less than 5 m/s
 
+A map is displayed indicating each of the locations with these parameters, and including the name of the closest hotel and the country. 
